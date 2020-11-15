@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JianYiShop:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b5a6cda-af6f-454f-b047-8182c0a7788c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="jsf" />
+        <option value="Interface" />
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1jznrgVbd1gkSGHAAyzsV49bneS" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/ideaProject/travel" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javawebStudy\jspStudy\JianYiShop\web\js" />
+      <recent name="D:\javawebStudy\jspStudy\JianYiShop\web\WEB-INF\lib" />
+      <recent name="D:\javawebStudy\jspStudy\JianYiShop\web\manager" />
+      <recent name="D:\javawebStudy\jspStudy\JianYiShop\web" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atjianyi.web.servlet" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javawebStudy\jspStudy\JianYiShop\web\WEB-INF\lib" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.55">
+    <configuration name="JDBConnectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JianYiShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atjianyi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atjianyi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atjianyi.test.JDBConnectionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBConnectionTest.testFindUserByid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JianYiShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atjianyi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atjianyi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atjianyi.test.JDBConnectionTest" />
+      <option name="METHOD_NAME" value="testFindUserByid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBConnectionTest.testQueryPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JianYiShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atjianyi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atjianyi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atjianyi.test.JDBConnectionTest" />
+      <option name="METHOD_NAME" value="testQueryPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBConnectionTest.textConnection" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="JianYiShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atjianyi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atjianyi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atjianyi.test.JDBConnectionTest" />
+      <option name="METHOD_NAME" value="textConnection" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBConnectionTest.textSelectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JianYiShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atjianyi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atjianyi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atjianyi.test.JDBConnectionTest" />
+      <option name="METHOD_NAME" value="textSelectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.55" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.551" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="JianYiShop:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JianYiShop" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_55_JianYiShop" />
+        <option name="HTTP_PORT" value="80" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59686" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JianYiShop:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.JDBConnectionTest.textConnection" />
+      <item itemvalue="JUnit.JDBConnectionTest.textSelectAll" />
+      <item itemvalue="JUnit.JDBConnectionTest" />
+      <item itemvalue="JUnit.JDBConnectionTest.testQueryPage" />
+      <item itemvalue="JUnit.JDBConnectionTest.testFindUserByid" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.55" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JDBConnectionTest.testFindUserByid" />
+        <item itemvalue="JUnit.JDBConnectionTest.testQueryPage" />
+        <item itemvalue="JUnit.JDBConnectionTest.textSelectAll" />
+        <item itemvalue="JUnit.JDBConnectionTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@48390e3" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@48390e3" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@35f1e0d2" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b5a6cda-af6f-454f-b047-8182c0a7788c" name="Default Changelist" comment="" />
+      <created>1604815987862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604815987862</updated>
+      <workItem from="1604815991396" duration="20589000" />
+      <workItem from="1604893978157" duration="859000" />
+      <workItem from="1604897373889" duration="17030000" />
+      <workItem from="1604921673033" duration="4692000" />
+      <workItem from="1604937070284" duration="2326000" />
+      <workItem from="1604967684319" duration="9858000" />
+      <workItem from="1604984056789" duration="17808000" />
+      <workItem from="1605007952613" duration="7361000" />
+      <workItem from="1605017733879" duration="316000" />
+      <workItem from="1605021716372" duration="211000" />
+      <workItem from="1605067052309" duration="832000" />
+      <workItem from="1605080374288" duration="3349000" />
+      <workItem from="1605094361760" duration="599000" />
+      <workItem from="1605140175505" duration="163000" />
+      <workItem from="1605192573784" duration="2425000" />
+      <workItem from="1605227407165" duration="1279000" />
+      <workItem from="1605336198383" duration="64000" />
+      <workItem from="1605336292738" duration="6846000" />
+      <workItem from="1605349366618" duration="3613000" />
+      <workItem from="1605366293783" duration="1215000" />
+      <workItem from="1605416278686" duration="4560000" />
+      <workItem from="1605421508052" duration="9178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
